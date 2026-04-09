@@ -46,7 +46,7 @@ function GitHubIcon() {
 
 const socialLinks = [
   { label: "Email",    href: "mailto:estebanarcosayala@gmail.com", icon: <EmailIcon /> },
-  { label: "LinkedIn", href: "https://linkedin.com/in/julian-arcos", icon: <LinkedInIcon /> },
+  { label: "LinkedIn", href: "https://www.linkedin.com/in/juli%C3%A1n-esteban-arcos/", icon: <LinkedInIcon /> },
   { label: "GitHub",   href: "https://github.com/eljulia", icon: <GitHubIcon /> },
 ];
 

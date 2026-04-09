@@ -65,7 +65,7 @@ export default function Footer() {
               <GitHubIcon />
             </a>
             <a
-              href="https://linkedin.com/in/julian-arcos"
+              href="https://www.linkedin.com/in/juli%C3%A1n-esteban-arcos/"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="LinkedIn"
