@@ -18,7 +18,7 @@ export async function writeContact(data: ContactData): Promise<void> {
   await notion.pages.create({
     parent: { database_id: dbId },
     properties: {
-      Nombre: {
+      "Nombre & Apellido": {
         title: [{ text: { content: data.nombre } }],
       },
       Email: {
