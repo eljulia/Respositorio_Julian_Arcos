@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { getCVUrl } from "@/lib/notion";
+import { getCVUrl } from "@/lib/services/notion";
 
 export async function GET() {
   try {

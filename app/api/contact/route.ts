@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { writeContact } from "@/lib/notion";
+import { writeContact } from "@/lib/services/notion";
 
 function isValidEmail(email: string): boolean {
   return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);

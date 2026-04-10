@@ -1,4 +1,5 @@
-import Navbar from "@/components/Navbar";
+import Navbar from "@/components/layout/Navbar";
+import Footer from "@/components/layout/Footer";
 import Hero from "@/components/sections/Hero";
 import About from "@/components/sections/About";
 import Stack from "@/components/sections/Stack";
@@ -8,7 +9,6 @@ import Experience from "@/components/sections/Experience";
 import Arcode from "@/components/sections/Arcode";
 import Certifications from "@/components/sections/Certifications";
 import Contact from "@/components/sections/Contact";
-import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
