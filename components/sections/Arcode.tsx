@@ -51,7 +51,7 @@ export default function Arcode() {
                 <BorderBeam size={80} duration={10} colorFrom="#2563EB" colorTo="#38BDF8" borderWidth={1} />
                 <div className="w-[52px] h-[52px] rounded-xl overflow-hidden flex-shrink-0 relative">
                   <Image
-                    src="/images/ArcodeImageW.jpeg"
+                    src="/images/ArcoImg.png"
                     alt="Arcode"
                     fill
                     className="object-contain"
