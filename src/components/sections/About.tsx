@@ -74,7 +74,7 @@ export default function About() {
                   Construyo desde APIs RESTful en producción hasta flujos de automatización con agentes IA.
                 </p>
                 <p>
-                  He entrenado y evaluado modelos LLM en Outlier AI, administrado
+                  He entrenado y evaluado modelos LLMs, administrado
                   infraestructura Linux en ambientes empresariales y automatizado
                   procesos que eliminaron horas de trabajo manual en organizaciones reales.
                 </p>
