@@ -5,7 +5,7 @@
 <!-- Reemplaza el símbolo # con tu URL cuando esté listo -->
 <!-- ══════════════════════════════════════════════════ -->
 
-![Portafolio](https://img.shields.io/badge/🌐_Portafolio_Personal-CONTACTAME-6c63ff?style=for-the-badge&labelColor=0d1117)
+[![Portafolio](https://img.shields.io/badge/🌐_Portafolio_Personal-CONTACTAME-6c63ff?style=for-the-badge&labelColor=0d1117)](https://v0-elingestebanarcos.vercel.app)
 
 ---
 
