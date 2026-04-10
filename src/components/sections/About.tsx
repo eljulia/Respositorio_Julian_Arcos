@@ -26,7 +26,8 @@ export default function About() {
                   src="/images/FotoJulian.png"
                   alt="Julián Arcos"
                   fill
-                  className="object-cover object-top"
+                  className="object-cover"
+                  style={{ objectPosition: "center 85%" }}
                   priority
                   sizes="(max-width: 1024px) 380px, 420px"
                 />
